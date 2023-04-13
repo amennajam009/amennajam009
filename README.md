@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Amen Najam</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Mean-Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 
 
