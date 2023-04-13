@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amen najam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amen najam" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/amen najam](https://www.linkedin.com/in/amen-najam-4a349422a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amen najam" height="30" width="40" /></a>
 <a href="https://instagram.com/amen.najam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amen.najam" height="30" width="40" /></a>
 </p>
 
