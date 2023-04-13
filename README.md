@@ -31,15 +31,15 @@
 
 <br>
 
-<a href="http://www.github.com/trench009"><img src="https://github-readme-stats.vercel.app/api?username=trench009&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="mageshyt's GitHub stats" /></a>
+<a href="http://www.github.com/trench009"><img src="https://github-readme-stats.vercel.app/api?username=amennajam009&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="mageshyt's GitHub stats" /></a>
 
-<a href="https://github.com/mageshyt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trench009&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
-
-<a href="http://www.github.com/trench009"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trench009&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/mageshyt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amennajam009&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=trench009&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="http://www.github.com/trench009"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amennajam009&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amennajam009&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
