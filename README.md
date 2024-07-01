@@ -1,4 +1,4 @@
-![MasterHead]<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
+![MasterHead](https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif)
 
 
 
