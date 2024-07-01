@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif)
 
 
 
