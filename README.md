@@ -9,12 +9,6 @@
 
 
 
-- 🔭 I’m currently working on **E-commerce website**
-
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **UI/UX Designs**
-
 - 📫 How to reach me **amennajam7@gmail.com**
 
 - ⚡ Fun fact **I love To steal Code lmao..**
